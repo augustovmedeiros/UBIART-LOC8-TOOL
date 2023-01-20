@@ -1,0 +1,17 @@
+# UBIART-LOC8-TOOL
+LOC8 Serializing &amp; Deserializing for UBIART games.
+
+List of LangIds that i've found.
+
+0: ENGLISH
+2: JAPANESE
+1: FRENCH
+3: GERMAN
+4: SPANISH
+5: ITALIAN
+8: PT-BR
+12: DUTCH
+13: DANISH
+14: NORWEGIAN
+15: SWISS
+16: FINNISH
